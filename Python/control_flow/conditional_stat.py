@@ -1,3 +1,4 @@
+# if else and elif
 colour = input("enter colour:")
 if colour == "red":
     print("stop")
@@ -10,4 +11,3 @@ elif colour == "yellow":
 
 else:
     print("not a traffic light colour")
-
