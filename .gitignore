@@ -2,5 +2,5 @@ course_materials/
 env/
 
 
-
+.ipnb_checkpoints/
 index.html
