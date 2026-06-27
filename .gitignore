@@ -1,6 +1,7 @@
 course_materials/
 env/
-
+Machine learning/Deep_Learning/CNN/data/
+*.tar.gz
 
 .ipnb_checkpoints/
 index.html
