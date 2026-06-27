@@ -4,3 +4,5 @@ env/
 
 .ipnb_checkpoints/
 index.html
+cnn_for_cat_dog.ipynb
+PetImages/
