@@ -7,3 +7,5 @@ Machine learning/Deep_Learning/CNN/data/
 index.html
 cnn_for_cat_dog.ipynb
 PetImages/
+.env
+datasets/
